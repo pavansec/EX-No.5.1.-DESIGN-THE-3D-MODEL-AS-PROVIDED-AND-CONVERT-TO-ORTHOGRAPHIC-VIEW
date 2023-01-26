@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![EX-5 1 PAVAN](https://user-images.githubusercontent.com/119491756/214907784-f695c748-383e-4458-9166-2f709e01636e.jpg)
 
 
 ## RESULT:
